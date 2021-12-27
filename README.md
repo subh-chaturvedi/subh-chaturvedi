@@ -35,4 +35,4 @@ while True:
   
 </div>
 
-<p align='center'><img src='https://raw.githubusercontent.com/siphyshu/siphyshu/output/github-contribution-grid-snake.svg'></p>
+<p align='center'><img src='https://raw.githubusercontent.com/subh-chaturvedi/subh-chaturvedi/output/github-contribution-grid-snake.svg'></p>
