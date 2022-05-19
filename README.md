@@ -1,8 +1,5 @@
-<div >
+<div align="center">
   <img align='right' src='https://media.giphy.com/media/52Fzb15SPPaE67hwnD/giphy.gif' width='200'>
-
-
-  
 </div>
 
 ```python
