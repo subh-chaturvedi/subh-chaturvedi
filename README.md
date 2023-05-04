@@ -19,11 +19,10 @@ while True:
   - 💻 Just obsessed with everything tech
   - ✨ Fun Fact: It took me 3hrs+ to make this
   - 📚 An undergrad studying CSE 
-  - 👀 Currently exploring Data Science 📈
+  - 👀 Currently exploring Machine Learning 📈
   - 🖊 I love writing and am experienced writing/editing/translation content. 
   - 👔 I'm working on trying to find a potion that gives me the anti-procrastination buff🧝‍♂
   
-  > _"Currently living my life at a speed of 244 wtf/s"_ - **Neel**
   
 <!--   
   <details>
