@@ -31,4 +31,4 @@ while True:
   
 </div>
 
-<p align='center'><img src='https://raw.githubusercontent.com/subh-chaturvedi/subh-chaturvedi/output/github-snake.gif'></p>
+<p align='center'><img src='https://raw.githubusercontent.com/subh-chaturvedi/subh-chaturvedi/output/github-snake-dark.gif'></p>
